@@ -1,0 +1,24 @@
+{
+  "pack": "Anything Launcher — deep link test",
+  "updated": "2026-11-08T21:31:42.245Z",
+  "mcVersion": "1.21.11",
+  "loaderKind": "fabric",
+  "loaderVersion": "0.20.1",
+  "files": [
+    {
+      "name": "appleskin-fabric-mc1.21.11-3.0.8.jar",
+      "sha1": "441fdbf4e9c34fb61517ceb8e15618950dc4d314",
+      "size": 180107
+    },
+    {
+      "name": "ferritecore-8.2.0-fabric.jar",
+      "sha1": "c2e2f5e008f5bc9f401dfad8ca94909917006b65",
+      "size": 80138
+    },
+    {
+      "name": "lithium-fabric-0.21.4+mc1.21.11.jar",
+      "sha1": "203bdcb26e97b3217b045e1182651a7d7b6462ec",
+      "size": 900462
+    }
+  ]
+}
